@@ -49,7 +49,7 @@ encrypto("String");
 
 # ThankYou ❤
 <p align="center">
-<img src="./pass-logo.png" width="400" height ="400">
+<img src="./pass-logo.png" width="400" height ="250">
 </p>
 
 <h1 align="center">
