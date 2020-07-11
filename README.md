@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="./pass-encrypto.png" width = "1400px"/>
+    <img src="./pass-ecrypto.png" width = "1400px"/>
   </a>
 </p>
 <h1 align="center">
